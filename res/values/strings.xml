@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IMP EK Pong</string>
+    
+	    <string name="MainStartButtonLabel">Start Game</string>
+
+		    <string name="MainMenuInfoLabel">Info</string>
+		    <string name="MainMenuStatisticsLabel">Statistieken</string>
+   		    <string name="MainMenuExitLabel">Afsluiten</string>
+		    <string name="MainMenuSettingsLabel">Instellingen</string>
+
+	    <string name="InfoTitle">Info</string>
+	    <string name="InfoText">Deze game is in 2 dagen door Jurgen Romeijn, student Mediatechnology in elkaargezet. Hij hoopt hiervoor een hoog cijfer te krijgen.</string>
+ 
+	    <string name="PreferencesTitle">Instellingen</string>
+
+    	    <string name="PreferencesDificultyTitle">Moeilijkheidsgraad</string>
+    	    <string name="PreferencesDificultyDescription">Hoe uitdagend moet het spel zijn?</string>
+
+	    	    <string name="PreferencesDificultyEasyKey">Makelijk</string>
+	       	    <string name="PreferencesDificultyNormalKey">Normaal</string>
+	       	    <string name="PreferencesDificultyHardKey">Moeilijk</string>
+
+    	    	<string name="PreferencesDificultyEasyValue">easy</string>
+	       	    <string name="PreferencesDificultyNormalValue">normal</string>
+	       	    <string name="PreferencesDificultyHardValue">hard</string>
+	       	    
+		<string name="StatisticsTitle">Statistieken</string>
+		
+				<string name="StatisticsPlayerHitsLabel">Bal geraakt:</string>
+				<string name="StatisticsPlayerGoalsLabel">Doelpunten voor:</string>
+				<string name="StatisticsComputerGoalsLabel">Doelpunten tegen:</string>
+					       	    	       	    	    	    
+	    <string name="hello">Hello World, Main!</string>
+	    <string name="ButtonCloseLabel">Sluiten</string>
+    
+</resources>

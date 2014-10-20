@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference android:entries="@array/PreferencesDificultyKey" android:entryValues="@array/PreferencesDificultyValue" android:summary="@string/PreferencesDificultyDescription" android:title="@string/PreferencesDificultyTitle" android:key="dificulty" android:defaultValue="@string/PreferencesDificultyNormalValue"/>
+    
+
+</PreferenceScreen>

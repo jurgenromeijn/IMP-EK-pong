@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Pong" parent="@android:style/Theme.Light">
+        <item name="android:padding">3dp</item>
+        <item name="android:windowBackground">@drawable/main_background</item>
+        <item name="android:buttonStyle">@style/Pong.ButtonStyle</item>
+	</style>
+    
+	<style name="Pong.ButtonStyle">
+	    <item name="android:layout_width">fill_parent</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textColor">@color/buttonTextColor</item>
+	    <item name="android:gravity">center</item>
+	    <item name="android:layout_margin">3dp</item>
+	    <item name="android:textSize">30dp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:shadowColor">@color/mainShadowColor</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">2</item>
+	    <item name="android:background">@drawable/orange_button</item>
+	</style>
+    
+	<style name="Pong.Playfield" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+	</style>
+	
+	<style name="Pong.Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:padding">3dp</item>
+        <item name="android:windowBackground">@color/dialogBackground</item>
+        <item name="android:textColor">@color/dialogTextColor</item>
+	    <item name="android:buttonStyle">@style/Pong.ButtonStyle</item>	    
+	</style>
+</resources>

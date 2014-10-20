@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttonBackground">#f60</color>
+    <color name="mainShadowColor">#000</color>
+    <color name="mainTextColor">#fff</color>
+    <color name="buttonTextColor">#fff</color>
+    <color name="dialogBackground">#000</color>
+    <color name="dialogTextColor">#fff</color>
+</resources>
